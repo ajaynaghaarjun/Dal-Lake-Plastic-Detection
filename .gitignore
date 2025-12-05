@@ -1,0 +1,9 @@
+# Ignore the dataset folder
+dataset/
+
+# Ignore the large model file (too big for free GitHub)
+best_model.pth
+
+# Ignore python cache files
+__pycache__/
+*.pyc
